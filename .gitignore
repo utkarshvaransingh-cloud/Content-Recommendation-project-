@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.db
+backend/recommendation.db
+node_modules/
+.env
+.DS_Store
